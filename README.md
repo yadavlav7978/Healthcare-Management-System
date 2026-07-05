@@ -1,6 +1,6 @@
-# Healthcare Management Portal
+# Healthcare Management System
 
-It is a Healthcare Management Portal developed using **Java Spring Boot**. The application provides a centralized platform for patients, healthcare providers, and administrators to efficiently manage appointments and healthcare-related information through role-based access.
+It is a Healthcare Management system developed using **Java Spring Boot**. The application provides a centralized platform for patients, healthcare providers, and administrators to efficiently manage appointments and healthcare-related information through role-based access.
 
 ---
 
